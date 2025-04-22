@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm OU DAVID
 
-<!--
-**d4v1d0u/d4v1d0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I’m an aspiring ** IT Support Administrator ** passionate about helping users and solving real-world tech problems. I'm currently learning and building skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Windows OS and troubleshooting
+- Networking fundamentals (IP, DNS, routers)
+- VirtualBox & virtualization
+- Basic Linux and command-line tools
+
+This GitHub is where I document my IT learning journey and share hands-on mini projects. My long-term goal is to grow into cybersecurity and system administration roles.
+
+Let's connect!
+[LinkedIn](https://www.linkedin.com/in/david-ou-01ab1434b) | [Email](mailto:oudavid18@gmail.com)
